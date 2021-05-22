@@ -24,18 +24,18 @@
 
 ### Snapshots
 
-<img align="left" alt="snapshot1" src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/1.png" width="250" height="400" />
-<img align="left" alt="snapshot2" src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/2.png" width="250" height="400" />
-<img align="left" alt="snapshot3" src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/3.png" width="250" height="400" />
-<img align="left" alt="snapshot4" src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/4.png" width="250" height="400" />
-<img align="left" alt="snapshot5" src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/5.PNG" width="250" height="400" />
-<img align="left" alt="snapshot6" src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/6.PNG" width="250" height="400" />
-<img align="left" alt="snapshot7" src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/7.png" width="250" height="400" />
-<img align="left" alt="snapshot8" src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/8.png" width="250" height="400" />
-<img align="left" alt="snapshot9" src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/9.png" width="250" height="400" />
-<img align="left" alt="snapshot10" src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/10.png" width="250" height="400" />
-<img align="left" alt="snapshot11" src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/11.png" width="250" height="400" />
-<img align="left" alt="snapshot12" src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/12.png" width="250" height="400" />
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/1.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/2.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/3.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/4.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/5.PNG)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/6.PNG)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/7.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/8.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/9.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/10.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/11.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/12.png)
 
 
 

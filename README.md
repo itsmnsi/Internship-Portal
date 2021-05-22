@@ -15,8 +15,8 @@
 ### Teammates
 <table>
 	<tr>
-		<td align="center"><img src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/manasi.JPG"  width=100px;"><br /><sub><b>Manasi Patil</b></sub><br/><a href="https://github.com/itsmnsi">🧠👨‍💻🚀❤️</a></td>
-		<td align="center"><img src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/vrushali.jpg"  width=100px;"><br /><sub><b>Vrushali Pawar</b></sub><br/><a href="https://github.com/Vrushali0203">🧠👨‍💻🚀❤️</a></td>
+		<td align="center"><img src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/manasi.JPG"  width=200px;"><br /><sub><b>Manasi Patil</b></sub><br/><a href="https://github.com/itsmnsi">🧠👨‍💻🚀❤️</a></td>
+		<td align="center"><img src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/vrushali.jpg"  width=200px;"><br /><sub><b>Vrushali Pawar</b></sub><br/><a href="https://github.com/Vrushali0203">🧠👨‍💻🚀❤️</a></td>
 		<td align="center"><img src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/priya.jpg"  width=100px;"><br /><sub><b>Priya Gunjal</b></sub><br/><a href="https://github.com/PRIYA0609">🧠👨‍💻🚀❤️</a></td>
 	</tr>				
 </table>
